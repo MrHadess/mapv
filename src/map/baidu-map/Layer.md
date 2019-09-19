@@ -220,22 +220,22 @@ dataSet中加count字段，代表权重，根据上面配置用以计算它实�
         {
             start: 0,
             end: 2,
-            color: randomColor()
+            value: randomColor()
         },{
             start: 2,
             end: 4,
-            color: randomColor()
+            value: randomColor()
         },{
             start: 4,
             end: 6,
-            color: randomColor()
+            value: randomColor()
         },{
             start: 6,
             end: 8,
-            color: randomColor()
+            value: randomColor()
         },{
             start: 8,
-            color: randomColor()
+            value: randomColor()
         }
     ]
 }
